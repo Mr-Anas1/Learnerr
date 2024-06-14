@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Learnerr/static/css/main.0020825d.css",
+    "main.js": "/Learnerr/static/js/main.f1c4d0d1.js",
+    "static/media/team_image.jpg": "/Learnerr/static/media/team_image.5108fb2f60555765441a.jpg",
+    "static/media/male4.jpg": "/Learnerr/static/media/male4.a4761847cc64773ff436.jpg",
+    "static/media/male3.jpg": "/Learnerr/static/media/male3.18ac3432815b591af798.jpg",
+    "static/media/male2.jpg": "/Learnerr/static/media/male2.788de38dd8dd65143047.jpg",
+    "static/media/male1.jpg": "/Learnerr/static/media/male1.d07d8e3e54cc585443be.jpg",
+    "static/media/female1.jpg": "/Learnerr/static/media/female1.fa2ab4c2acf520e2eb38.jpg",
+    "static/media/mobile.png": "/Learnerr/static/media/mobile.e1734a7880328dc1afd9.png",
+    "static/media/male5.png": "/Learnerr/static/media/male5.79846add202c8cb70468.png",
+    "static/media/rate.png": "/Learnerr/static/media/rate.7e172b25a94c330d3fd2.png",
+    "static/media/progress.png": "/Learnerr/static/media/progress.defde3061fbfef831a5c.png",
+    "static/media/laptop.png": "/Learnerr/static/media/laptop.e6bed94f2bb2429f1ea5.png",
+    "static/media/logo.png": "/Learnerr/static/media/logo.4fd7c145ab0b5ed7d3a2.png",
+    "static/media/faqs.png": "/Learnerr/static/media/faqs.971dcf2bb60351b9e3ba.png",
+    "static/media/slider_bg.png": "/Learnerr/static/media/slider_bg.23d8ead1ba7bc27cc586.png",
+    "static/media/react.png": "/Learnerr/static/media/react.78a0368c2e01eea6afb5.png",
+    "static/media/node.png": "/Learnerr/static/media/node.0bb55470174d1c49bd5f.png",
+    "static/media/html.png": "/Learnerr/static/media/html.11609837981543c75257.png",
+    "static/media/slick.svg": "/Learnerr/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Learnerr/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Learnerr/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Learnerr/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Learnerr/index.html",
+    "main.0020825d.css.map": "/Learnerr/static/css/main.0020825d.css.map",
+    "main.f1c4d0d1.js.map": "/Learnerr/static/js/main.f1c4d0d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0020825d.css",
+    "static/js/main.f1c4d0d1.js"
+  ]
+}
